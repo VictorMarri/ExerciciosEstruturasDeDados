@@ -1,0 +1,7 @@
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\bin\Debug\ListaAED.exe.config
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\bin\Debug\ListaAED.exe
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\bin\Debug\ListaAED.pdb
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\obj\Debug\ListaAED.csprojAssemblyReference.cache
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\obj\Debug\ListaAED.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\obj\Debug\ListaAED.exe
+C:\Users\Victor Marri\source\repos\ListaAED\ListaAED\obj\Debug\ListaAED.pdb
